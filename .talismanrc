@@ -1,4 +1,10 @@
 fileignoreconfig:
+- filename: src/main/java/com/telusko/springsecdemo/config/JwtFilter.java
+  checksum: a506aaa9421cb01e593f127e811cae288f3a021af1ae2760e33d90798abe1071
+- filename: src/main/java/com/telusko/springsecdemo/controller/UserController.java
+  checksum: 603995a2fad2536afa943d706f55dd70a42d19634bc143f127347284ccc94537
+- filename: src/main/java/com/telusko/springsecdemo/service/JwtService.java
+  checksum: 3c49f7f8a0c1ba8591d4afaeada3174270422aa02ea7d01ee70bbe7158f800da
 - filename: src/main/java/com/telusko/springsecdemo/service/UserService.java
   checksum: 4f02647220b262fb917685ccec786511fa4e6cad91ea0c4716e68adc9812a157
 version: "1.0"
